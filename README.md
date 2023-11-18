@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nirman20-hub
-- 👀 I’m interested in ...data science and business analytics
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...EDA AND MACHINE LEARNING
+- 👋 Hi, I’m @Nirman99-hub
+- 👀 I’m interested in ...data science and business analytics solving business solutions statistically
+- 🌱 I’m currently learning ...SQL,Python,Agile Framework
+- 💞️ I’m looking to collaborate on ...Genarative AI
 - 📫 How to reach me ...mail me at [nathnirman@gmail.com]
 
 <!---
